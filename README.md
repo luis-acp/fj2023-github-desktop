@@ -1,4 +1,4 @@
-# Segundo Parcial
+## Segundo Parcial
 
 iss: cambio 1
 
